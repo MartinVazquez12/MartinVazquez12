@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hola 👋, soy Martín Vázquez  
 
-<!--
-**MartinVazquez12/MartinVazquez12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desarrollador Full Stack** con experiencia en:  
+- **Backend:** Java (Spring Boot), C# (.NET)  
+- **Frontend:** Angular, HTML, CSS, TypeScript  
+- **Bases de Datos:** MySQL, SQL Server, JPA (Hibernate)  
+- **Otros:** Docker, Git, APIs REST, JWT, Spring Security  
 
-Here are some ideas to get you started:
+📌 Actualmente graduado de **Tecnicatura en Programación - UTN FRC**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Proyectos destacados
+- **Gestión de Talleres Municipales** → Tesis de UTN  
+  - Spring Boot + Angular  
+  - Mercado Pago, Emails automáticos, Mapas dinámicos  
+
+- **Gestión de Barrios Privados** → Proyecto universitario  
+  - Microservicios con Java y Angular  
+  - Comunicación entre servicios y pasarela de pago  
+
+---
+
+### 🔗 Contribuciones en otra cuenta
+Muchos de mis commits se encuentran en una cuenta institucional de la UTN.  
+👉 Podés verlos aquí: [Cuenta institucional](https://github.com/405708)  
+
+---
+
+📫 **Contacto:** [LinkedIn](https://www.linkedin.com/in/martin-vazquez-flexes-615590327/) | [Email](mailto:martinnvazquez1212@gmail.com)
